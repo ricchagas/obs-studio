@@ -15,6 +15,7 @@ OBS Studio <https://obsproject.com>
    :target: https://obsproject.com/discord
 
 What is OBS Studio?
+rs
 -------------------
 
 OBS Studio is software designed for capturing, compositing, encoding,
